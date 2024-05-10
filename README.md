@@ -1,2 +1,2 @@
 # DeadusDistortion
-Distortion VST plugin
+Simple distortion VST plugin using JUCE framework
